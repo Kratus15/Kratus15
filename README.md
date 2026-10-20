@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Computer Science Graduate**
 
-I'm a Computer Science graduate and full-stack developer who enjoys solving problems, building practical applications, and understanding how things work behind the scenes. I primarily work with **Java, Spring Boot, React, TypeScript, and PostgreSQL**, with a growing interest in backend development and software architecture.
+I'm full-stack developer who enjoys solving problems, building practical applications, and understanding how things work behind the scenes. I primarily work with **Java, Spring Boot, React, TypeScript, and PostgreSQL**, with a growing interest in backend development and software architecture.
 
 I approach development with curiosity, initiative, and a willingness to learn. I value **teamwork, accountability, and clear communication**, and I believe good engineering comes from taking ownership, thinking critically, and staying resilient when challenges arise. I'm always looking for opportunities to contribute, take on new responsibilities, and grow alongside others.
 
@@ -30,4 +30,4 @@ Strengthening my skills in **backend engineering, system design, testing, and de
 
 ---
 
-*Stay curious. Take ownership. Keep building.*
+*Stay curious. Take ownership. Keep improving.*
