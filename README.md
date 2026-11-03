@@ -8,10 +8,12 @@ I approach development with curiosity, initiative, and a willingness to learn. I
 
 ## Tech Stack
 
-- **Backend:** Java, Spring Boot, REST APIs
+- **Backend:** Java, Spring Boot, Python, Flask, REST APIs, C#, .NET (basic)
 - **Frontend:** React, TypeScript
-- **Database:** PostgreSQL
-- **Tools:** Git, GitHub
+- **Database:** PostgreSQL, SQL
+- **Infrastructure:** Docker, AWS, Linux
+- **Embedded Systems:** C++
+- **Tools:** Git, GitHub, ChatGPT, Claude
 
 ## Featured Project
 
@@ -26,7 +28,7 @@ Strengthening my skills in **backend engineering, system design, testing, and de
 
 ## 🤝 Connect
 
-[**LinkedIn**](https://www.linkedin.com/in/yonelvyn-morel-b90542344/) | [**GitHub**](https://github.com/Kratus15)
+[**LinkedIn**](https://www.linkedin.com/in/yonelvyn-morel-b90542344/)
 
 ---
 
